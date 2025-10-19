@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 # watchcharm
-=======
->>>>>>> master
-watchcharm
